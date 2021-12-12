@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/blue-diamond-mockup/static/css/main.60a57326.chunk.css",
+    "main.js": "/blue-diamond-mockup/static/js/main.c592f058.chunk.js",
+    "main.js.map": "/blue-diamond-mockup/static/js/main.c592f058.chunk.js.map",
+    "runtime-main.js": "/blue-diamond-mockup/static/js/runtime-main.65fa9d19.js",
+    "runtime-main.js.map": "/blue-diamond-mockup/static/js/runtime-main.65fa9d19.js.map",
+    "static/js/2.be4eae2c.chunk.js": "/blue-diamond-mockup/static/js/2.be4eae2c.chunk.js",
+    "static/js/2.be4eae2c.chunk.js.map": "/blue-diamond-mockup/static/js/2.be4eae2c.chunk.js.map",
+    "static/js/3.35167d72.chunk.js": "/blue-diamond-mockup/static/js/3.35167d72.chunk.js",
+    "static/js/3.35167d72.chunk.js.map": "/blue-diamond-mockup/static/js/3.35167d72.chunk.js.map",
+    "index.html": "/blue-diamond-mockup/index.html",
+    "static/css/main.60a57326.chunk.css.map": "/blue-diamond-mockup/static/css/main.60a57326.chunk.css.map",
+    "static/js/2.be4eae2c.chunk.js.LICENSE.txt": "/blue-diamond-mockup/static/js/2.be4eae2c.chunk.js.LICENSE.txt",
+    "static/media/backarrow.d1e5feea.png": "/blue-diamond-mockup/static/media/backarrow.d1e5feea.png",
+    "static/media/bluediamond.29dcfa4e.png": "/blue-diamond-mockup/static/media/bluediamond.29dcfa4e.png",
+    "static/media/forwardarrow.a047fe68.png": "/blue-diamond-mockup/static/media/forwardarrow.a047fe68.png",
+    "static/media/pexels-anna-shvets-3844581.fbcc154e.jpg": "/blue-diamond-mockup/static/media/pexels-anna-shvets-3844581.fbcc154e.jpg",
+    "static/media/pexels-fauxels-3184433.22387370.jpg": "/blue-diamond-mockup/static/media/pexels-fauxels-3184433.22387370.jpg",
+    "static/media/pexels-ivan-samkov-4989175.a95c9fd0.jpg": "/blue-diamond-mockup/static/media/pexels-ivan-samkov-4989175.a95c9fd0.jpg",
+    "static/media/pexels-karolina-grabowska-4021775.d4ec4175.jpg": "/blue-diamond-mockup/static/media/pexels-karolina-grabowska-4021775.d4ec4175.jpg",
+    "static/media/pexels-karolina-grabowska-4386466.2564e4ae.jpg": "/blue-diamond-mockup/static/media/pexels-karolina-grabowska-4386466.2564e4ae.jpg",
+    "static/media/pexels-mikhail-nilov-8943075.930b8af4.jpg": "/blue-diamond-mockup/static/media/pexels-mikhail-nilov-8943075.930b8af4.jpg",
+    "static/media/pexels-pixabay-263337.c38eebe4.jpg": "/blue-diamond-mockup/static/media/pexels-pixabay-263337.c38eebe4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65fa9d19.js",
+    "static/js/2.be4eae2c.chunk.js",
+    "static/css/main.60a57326.chunk.css",
+    "static/js/main.c592f058.chunk.js"
+  ]
+}
