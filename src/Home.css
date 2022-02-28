@@ -1,0 +1,98 @@
+#carouselContainer {
+width: 100%;
+position: relative;
+}
+
+.carouselImgs {
+position: relative;
+width: 100%;
+height: auto;
+}
+
+
+#carouselBtns {
+ position: absolute;
+  width: 100%;
+top: 50%;
+z-index: 1;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.btnBoxes {
+margin: 10px;
+}
+
+
+
+#forwardBtn {
+z-index: 1;
+max-width: 40px;
+
+}
+
+#forwardBtn:hover {
+    transform: scale(1.2);
+}
+
+.homeChildren {
+  width: 100%;
+text-align: center;
+animation: slide 1s ease 0s 1 normal forwards;
+padding: 15px;
+margin: 0 auto;
+color: #1A2238;
+
+}
+
+#homeContainer {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+
+#backBtn {
+    z-index: 1;
+    max-width: 40px;
+
+    }
+
+    #backBtn:hover {
+        transform: scale(1.2);
+    }
+
+    #viewServBtn {
+      text-align: center;
+      margin: 0 auto;
+      width: 175px;
+      height: 60px;
+      font-size: 20px;
+      background-color: #FF6A3D;
+      border-radius: 15px;
+      border-width: 0;
+     color: white;
+    }
+
+    #viewServBtn:hover {
+      -ms-user-select: none;
+      -webkit-user-select: none;
+      user-select: none;
+      transform: scale(1.1);
+    }
+
+@keyframes slide {
+    0% {
+      opacity: 0;
+      transform: translateX(-250px);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+

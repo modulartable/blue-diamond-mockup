@@ -1,0 +1,17 @@
+#footerContainer {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+align-items: center;
+}
+
+.subContainers {
+margin: 5px;
+font: 700 calc(18rem/16)/calc(20/18);
+}
+
+.footerItems:hover {
+text-decoration: underline;
+text-decoration-color: #F4DB7D;
+}

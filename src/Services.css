@@ -1,0 +1,35 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.servicesChildren {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+align-items: center;
+margin: 20px;
+padding: 10px;
+color: #1A2238;
+animation: Slide 1s ease 0s 1 normal backwards;
+}
+
+.servicePhotos {
+max-width: 500px;
+width: 75%;
+height: auto;
+}
+
+
+@keyframes Slide {
+    0% {
+      opacity: 0;
+      transform: translateX(-250px);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  

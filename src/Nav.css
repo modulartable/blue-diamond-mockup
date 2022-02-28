@@ -1,0 +1,21 @@
+#navBar {
+    padding-top: 65px;
+    display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-bottom: 25px;
+    }
+    
+    .navLinks {
+    padding: 12px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    }
+
+    .navLinks:hover {
+    color: #FA8072;
+    }
+
+
