@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/blue-diamond-mockup/static/css/main.47705c9b.chunk.css",
-    "main.js": "/blue-diamond-mockup/static/js/main.9e280849.chunk.js",
-    "main.js.map": "/blue-diamond-mockup/static/js/main.9e280849.chunk.js.map",
+    "main.css": "/blue-diamond-mockup/static/css/main.e27c7263.chunk.css",
+    "main.js": "/blue-diamond-mockup/static/js/main.c4c2ae52.chunk.js",
+    "main.js.map": "/blue-diamond-mockup/static/js/main.c4c2ae52.chunk.js.map",
     "runtime-main.js": "/blue-diamond-mockup/static/js/runtime-main.65fa9d19.js",
     "runtime-main.js.map": "/blue-diamond-mockup/static/js/runtime-main.65fa9d19.js.map",
-    "static/js/2.4ba7a54f.chunk.js": "/blue-diamond-mockup/static/js/2.4ba7a54f.chunk.js",
-    "static/js/2.4ba7a54f.chunk.js.map": "/blue-diamond-mockup/static/js/2.4ba7a54f.chunk.js.map",
+    "static/js/2.ebe09061.chunk.js": "/blue-diamond-mockup/static/js/2.ebe09061.chunk.js",
+    "static/js/2.ebe09061.chunk.js.map": "/blue-diamond-mockup/static/js/2.ebe09061.chunk.js.map",
     "static/js/3.35167d72.chunk.js": "/blue-diamond-mockup/static/js/3.35167d72.chunk.js",
     "static/js/3.35167d72.chunk.js.map": "/blue-diamond-mockup/static/js/3.35167d72.chunk.js.map",
     "index.html": "/blue-diamond-mockup/index.html",
-    "static/css/main.47705c9b.chunk.css.map": "/blue-diamond-mockup/static/css/main.47705c9b.chunk.css.map",
-    "static/js/2.4ba7a54f.chunk.js.LICENSE.txt": "/blue-diamond-mockup/static/js/2.4ba7a54f.chunk.js.LICENSE.txt",
+    "static/css/main.e27c7263.chunk.css.map": "/blue-diamond-mockup/static/css/main.e27c7263.chunk.css.map",
+    "static/js/2.ebe09061.chunk.js.LICENSE.txt": "/blue-diamond-mockup/static/js/2.ebe09061.chunk.js.LICENSE.txt",
     "static/media/backarrow.eb95178b.png": "/blue-diamond-mockup/static/media/backarrow.eb95178b.png",
     "static/media/bluediamond.29dcfa4e.png": "/blue-diamond-mockup/static/media/bluediamond.29dcfa4e.png",
     "static/media/forwardarrow.ff6d7d26.png": "/blue-diamond-mockup/static/media/forwardarrow.ff6d7d26.png",
-    "static/media/pexels-anna-shvets-3844581.fbcc154e.jpg": "/blue-diamond-mockup/static/media/pexels-anna-shvets-3844581.fbcc154e.jpg",
-    "static/media/pexels-fauxels-3184433.22387370.jpg": "/blue-diamond-mockup/static/media/pexels-fauxels-3184433.22387370.jpg",
-    "static/media/pexels-ivan-samkov-4989175.a95c9fd0.jpg": "/blue-diamond-mockup/static/media/pexels-ivan-samkov-4989175.a95c9fd0.jpg",
-    "static/media/pexels-karolina-grabowska-4021775.d4ec4175.jpg": "/blue-diamond-mockup/static/media/pexels-karolina-grabowska-4021775.d4ec4175.jpg",
-    "static/media/pexels-karolina-grabowska-4386466.2564e4ae.jpg": "/blue-diamond-mockup/static/media/pexels-karolina-grabowska-4386466.2564e4ae.jpg",
-    "static/media/pexels-mikhail-nilov-8943075.930b8af4.jpg": "/blue-diamond-mockup/static/media/pexels-mikhail-nilov-8943075.930b8af4.jpg",
-    "static/media/pexels-pixabay-263337.c38eebe4.jpg": "/blue-diamond-mockup/static/media/pexels-pixabay-263337.c38eebe4.jpg"
+    "static/media/hamburger.e76e5b58.svg": "/blue-diamond-mockup/static/media/hamburger.e76e5b58.svg",
+    "static/media/pexels-anna-shvets-3844581.365bbafa.jpg": "/blue-diamond-mockup/static/media/pexels-anna-shvets-3844581.365bbafa.jpg",
+    "static/media/pexels-fauxels-3184433.79e2d40f.jpg": "/blue-diamond-mockup/static/media/pexels-fauxels-3184433.79e2d40f.jpg",
+    "static/media/pexels-ivan-samkov-4989175.3416211e.jpg": "/blue-diamond-mockup/static/media/pexels-ivan-samkov-4989175.3416211e.jpg",
+    "static/media/pexels-karolina-grabowska-4021775.4d6df3f9.jpg": "/blue-diamond-mockup/static/media/pexels-karolina-grabowska-4021775.4d6df3f9.jpg",
+    "static/media/pexels-karolina-grabowska-4386466.b7ddf8f5.jpg": "/blue-diamond-mockup/static/media/pexels-karolina-grabowska-4386466.b7ddf8f5.jpg",
+    "static/media/pexels-mikhail-nilov-8943075.23286d8c.jpg": "/blue-diamond-mockup/static/media/pexels-mikhail-nilov-8943075.23286d8c.jpg",
+    "static/media/pexels-pixabay-263337.cca8b945.jpg": "/blue-diamond-mockup/static/media/pexels-pixabay-263337.cca8b945.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.65fa9d19.js",
-    "static/js/2.4ba7a54f.chunk.js",
-    "static/css/main.47705c9b.chunk.css",
-    "static/js/main.9e280849.chunk.js"
+    "static/js/2.ebe09061.chunk.js",
+    "static/css/main.e27c7263.chunk.css",
+    "static/js/main.c4c2ae52.chunk.js"
   ]
 }
